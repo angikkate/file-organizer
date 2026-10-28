@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+
+# Тимчасові та тестові папки
+test_dir/
+organized_dir/
